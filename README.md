@@ -11,7 +11,7 @@ Landing page para **N&M Estúdio Criativo**, uma **agência de marketing digital
 
 ## Metodologias e processo 
 1. Briefing
-- Análise do briefing e necessidades da agência: 
+- **Análise do briefing e necessidades da agência:** 
 3. 
 
 UX/UI Design
